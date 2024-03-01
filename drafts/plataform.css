@@ -1,0 +1,236 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+
+}
+
+#menu{
+	background-color:#242424;
+	color:white;
+	font-size: 0.8rem;
+}
+
+.icon-blue{
+	
+color:gray;
+	
+}
+
+.icon-red{
+	
+color:gray;
+	
+}
+
+.icon-blue:hover{
+	
+color:dodgerblue;
+	
+}
+
+.icon-red:hover{
+	
+color:red;
+	
+}
+
+.dropdown-menu{
+	background-color:#4C4C4C;
+	font-size: 0.8rem;
+}
+
+a:link {
+  text-decoration: none;
+  color:white;
+}
+
+a:visited {
+  text-decoration: none;
+	color:white;
+}
+
+a:hover {
+  text-decoration: none;
+	color:white;
+}
+
+a:active {
+  text-decoration: none;
+	color:white;
+}
+
+
+#lateral{
+	background-color:#D3D3D3;
+}
+
+.nav-item #textoLateral{
+	color: black;
+}
+
+#corpo{
+	background-color: white;
+}
+
+#titulo{
+	padding-top:1rem;
+	padding-bottom: 1rem;
+	font-size: 1.3rem;
+	color:black;
+	font-weight: bold;
+}
+
+
+
+#tituloTabela{
+	padding-top:1rem;
+	padding-bottom: 1rem;
+	font-size: 1rem;
+	color:black;
+	font-weight:normal;
+	
+}
+
+
+
+
+#registerText{
+
+	padding-top:10px;
+	font-size: 0.8rem;
+	color:black;
+	text-align: center;
+	align-items: center;
+}
+
+.icon-blue{
+	
+color:white;
+	
+}
+
+.icon-red{
+	
+color:white;
+	
+}
+
+.icon-blue:hover{
+	
+color:white;
+	
+}
+
+.icon-red:hover{
+	
+color:white;
+	
+}
+#foto{
+
+        width: 80px;
+        height: 80px;
+      border-radius: 50%;
+    
+}
+#imgcont{
+	 
+
+	
+	width: 120px;
+	height :120px;
+	
+}
+
+#navtext{
+font-size: 0.8rem;	
+}
+
+#navtext2{
+font-size: 0.8rem;	
+}
+.breadcrumb-item a{
+	color: blue;
+	font-size: 0.8rem;
+	
+}
+
+#titulo2{
+	padding-top:1rem;
+	padding-bottom: 1rem;
+	font-size: 1.3rem;
+	color:black;
+	font-weight: bold;
+}
+
+/*Profile Pic Start*/
+.picture-container{
+    position: relative;
+    cursor: pointer;
+    text-align: center;
+}
+.picture{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border: 4px solid #CCCCCC;
+    color: #FFFFFF;
+    border-radius: 50%;
+    margin: 0px auto;
+    overflow: hidden;
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+}
+.picture:hover{
+    border-color:#00A2E8;
+}
+.content.ct-wizard-green .picture:hover{
+    border-color: #05ae0e;
+}
+.content.ct-wizard-blue .picture:hover{
+    border-color: #3472f7;
+}
+.content.ct-wizard-orange .picture:hover{
+    border-color: #ff9500;
+}
+.content.ct-wizard-red .picture:hover{
+    border-color: #ff3b30;
+}
+.picture input[type="file"] {
+    cursor: pointer;
+    display: block;
+    height: 100%;
+    left: 0;
+    opacity: 0 !important;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+.picture-src{
+    width: 100%;
+    
+}
+/*Profile Pic End*/
+
+.pictureMini{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    color: #FFFFFF;
+    border-radius: 50%;
+    margin: 0px auto;
+    overflow: hidden;
+}
+.picture-containerMini{
+    position: relative;
+    text-align: center;
+}
+
+#rodape{
+	text-align: center;
+	align-items: center;
+	font-size: 0.8rem;
+	padding:0.5rem;
+	margin-top:3rem;
+}

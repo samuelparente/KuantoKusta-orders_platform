@@ -1,0 +1,21 @@
+{
+  "EncId": "12345-abcdef-0987",
+  "Nome": "Samuel Parente",
+  "Morada": "Rua Exemplo, 123",
+  "CP": "4890-211",
+  "Cidade": "Celorico de Basto",
+  "País": "Portugal",
+  "NIF": "228472555",
+  "Artigos": [
+    {
+      "Quantidade": 2,
+      "Codigo": "6370585",
+      "Preco": 5.99
+    },
+    {
+      "Quantidade": 1,
+      "Codigo": "6031997",
+      "Preco": 29.34
+    }
+  ]
+}
